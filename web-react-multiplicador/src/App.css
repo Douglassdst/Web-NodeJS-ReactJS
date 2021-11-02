@@ -1,0 +1,49 @@
+.back{
+  min-height: 100vh;
+  padding: 5% 20%;
+  background-color:rgb(127, 230, 170);
+}
+
+.App {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif; 
+  padding: 20%;
+}
+
+
+.formulario{
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+}
+
+
+.entrada{
+  margin-top: 3%;
+  border-radius: 15px;
+  text-align: center;
+  min-height: calc(15px + 2vmin);
+  min-width: 50%;
+}
+
+h1{
+  margin-top: 3%;
+  font-size:calc(5px + 2vmin);
+  color: rgb(7, 6, 6);
+}
+
+.botao{
+  font-style: bold;
+  font-size: medium;
+  height: calc(5px + 7vmin);
+  width:calc(20px + 18vmin);
+}
+
+.h1Titulo{
+  font-size:calc(35px + 2vmin);
+  color: rgb(58, 57, 57);
+}
+
+.titulo{
+  padding:4%;
+}

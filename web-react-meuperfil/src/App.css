@@ -1,0 +1,42 @@
+.App {
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.imagem{
+  max-height: 15%;
+  max-width: 11%;  
+}
+
+h1{
+  font-size:calc(2em + 1vh);   
+}
+
+h3{
+  font-size:calc(1em + 1vh);
+  font-weight: normal;
+}
+
+.App-header {
+  max-height: 100vh;
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin: 2%;
+
+}
+
+.conteudo{
+  margin: 2%;
+  min-height: 100vh; 
+  padding:5%;
+}
+
+.link{
+  font-size:calc(1em + 1vh);
+  font-weight:bold;
+  color:black;
+  
+}

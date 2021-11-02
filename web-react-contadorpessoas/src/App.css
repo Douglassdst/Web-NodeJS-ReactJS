@@ -1,0 +1,34 @@
+*{
+  font-family: 'Times New Roman', Times, serif;  
+  color: white;
+  font-weight: bold;
+}
+
+.fundo{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  min-height: 100vh;
+  background-color: #282c34;
+  display: flex;
+}
+
+.botao{
+  margin: 3%;
+  padding: 2%;
+  background-color: #520904;
+  border-radius: 30px;
+  min-height:10vh;
+  min-width:15vh;
+}
+
+.saida{
+  border-style: solid;
+  border-color: White;
+  min-height: 25vh;
+  min-width: 40vh;
+  display: flex;  
+  align-items: center;
+  justify-content: center;
+  font-size: calc(45px + 2vmin);
+}

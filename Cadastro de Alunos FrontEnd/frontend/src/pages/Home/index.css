@@ -1,0 +1,15 @@
+
+.conteudo {
+    width: 100%;
+    text-align: center;
+    margin: 10% 10% 25% 5% !important;    
+}
+
+.titulo{    
+    margin: 2%;
+}
+
+.texto{
+    font-size:21px;
+    margin: 2%;
+}

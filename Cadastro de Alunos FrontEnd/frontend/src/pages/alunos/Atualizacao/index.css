@@ -1,0 +1,9 @@
+.task-header{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+body{
+    background-color:rgba(180, 180, 180, 0.781) !important; 
+}
